@@ -1,0 +1,25 @@
+.postInfo {
+	margin-top: 15px;
+	max-width: 800px;
+	color: #fff;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	.postInfo__title {
+		text-transform: uppercase;
+		font-size: 40px;
+		margin-bottom: 10px;
+		padding-bottom: 10px;
+		border-bottom: 3px solid #0093ad;
+	}
+
+	.postInfo__desc {
+		font-size: 20px;
+		line-height: 1.5;
+		padding-bottom: 10px;
+		border-bottom: 3px solid #0093ad;
+		margin-bottom: 10px;
+	}
+
+	.postInfo__comments {
+		font-size: 30px;
+	}
+}

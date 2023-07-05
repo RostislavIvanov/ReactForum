@@ -1,0 +1,11 @@
+.comment {
+	margin: 15px;
+	padding: 10px;
+	border: 2px solid #0093ad;
+	border-radius: 10px;
+	.comment__email {
+		display: inline-block;
+		border-bottom: 1px solid #0093ad;
+		margin-bottom: 10px;
+	}
+}

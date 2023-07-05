@@ -1,0 +1,22 @@
+.postItem {
+	color: white;
+	background-color: #0093ad;
+	border-radius: 20px;
+	padding: 15px;
+	margin-bottom: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	.postItem__title {
+		font-size: 30px;
+	}
+
+	.postItem__body {
+		margin-top: 10px;
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+
+	.postItem__con {
+		display: flex;
+		justify-content: end;
+	}
+}
